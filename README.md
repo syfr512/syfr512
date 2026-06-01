@@ -1,16 +1,13 @@
-<!-- HEADER QUOTE -->
 <p align="center">
   <i>"What is better - to born good, or to overcome your evil nature through great effort?"</i>
 </p>
 
-<!-- MAIN HERO GIF -->
 <p align="center">
   <img src="skau.gif" width="100%" alt="Skyrim Aurora" style="border-radius: 8px;">
 </p>
 
 <br/>
 
-<!-- UPGRADED GLOWING NEON GAMING LINKS -->
 <p align="center">
   <a href="steamcommunity.com/id/syfr512" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/STEAM-%23171a21.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
@@ -26,9 +23,6 @@
   </a>
 </p>
 
-<br/><br/>
-
-<!-- PIXEL ROSE DIVIDER (No more ugly gray line) -->
 <p align="center">
   <img src="div.gif" width="40%">
 </p>
