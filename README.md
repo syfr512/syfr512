@@ -1,13 +1,15 @@
 <p align="center">
   <i>"What is better - to born good, or to overcome your evil nature through great effort?"</i>
 </p>
-
+<p align="center">
+  <img src="div.gif" width="50%">
+</p>
 <p align="center">
   <img src="sk.gif" width="100%" alt="Skyrim Aurora" style="border-radius: 8px;">
 </p>
-
-<br/>
-
+<p align="center">
+  <img src="div.gif" width="50%">
+</p>
 <p align="center">
   <a href="https://steamcommunity.com/id/syfr512" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/STEAM-%23171a21.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
@@ -21,8 +23,4 @@
   <a href="https://roblox.com/users/30089395/profile" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/ROBLOX-%23000000.svg?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
   </a>
-</p>
-
-<p align="center">
-  <img src="div.gif" width="40%">
 </p>
