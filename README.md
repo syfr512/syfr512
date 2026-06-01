@@ -1,8 +1,34 @@
-"What is better - to be born good, or to overcome your evil nature through great effort?" 
+<!-- HEADER QUOTE -->
+<p align="center">
+  <i>"What is better - to born good, or to overcome your evil nature through great effort?"</i>
+</p>
 
-![Alt Text](https://i.gifer.com/fetch/w300-preview/0c/0cf6a011b64c623b1ecfe9be6d122b17.gif)
+<!-- MAIN HERO GIF -->
+<p align="center">
+  <img src="skau.gif" width="100%" alt="Skyrim Aurora" style="border-radius: 8px;">
+</p>
 
-<!---
-syfr-512/syfr-512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+
+<!-- UPGRADED GLOWING NEON GAMING LINKS -->
+<p align="center">
+  <a href="steamcommunity.com/id/syfr512" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/STEAM-%23171a21.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+  <a href="discord.com/users/1481822239438671922" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="xbox.com/play/user/MrBanana512" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/MINECRAFT-%231E5D2F.svg?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+  </a>
+  <a href="roblox.com/users/30089395/profile" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/ROBLOX-%23000000.svg?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
+  </a>
+</p>
+
+<br/><br/>
+
+<!-- PIXEL ROSE DIVIDER (No more ugly gray line) -->
+<p align="center">
+  <img src="div.gif" width="40%">
+</p>
