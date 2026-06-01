@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="skau.gif" width="100%" alt="Skyrim Aurora" style="border-radius: 8px;">
+  <img src="sk.gif" width="100%" alt="Skyrim Aurora" style="border-radius: 8px;">
 </p>
 
 <br/>
